@@ -1,0 +1,22 @@
+{
+  "nextPageIndex": 2,
+  "notebooks": [
+    {
+      "name": "Front-end",
+      "color": "#b80f0f",
+      "icon": "book",
+      "pages": [
+        {
+          "title": "HTML",
+          "fileName": "0.json",
+          "favorite": false
+        },
+        {
+          "title": "CSS",
+          "fileName": "1.json",
+          "favorite": false
+        }
+      ]
+    }
+  ]
+}
